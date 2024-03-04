@@ -6,6 +6,8 @@ import org.junit.Test;
 /**
  * Created by leon on 2/12/18.
  */
+
+// Finished
 public class TestPerson {
     @Test
     public void testDefaultConstructor() {
