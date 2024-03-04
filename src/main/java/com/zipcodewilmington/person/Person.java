@@ -70,6 +70,10 @@ public class Person {
         return favFood;
     }
 
+    public void setIsMarried(boolean isMarried){
+        this.isMarried = isMarried;
+    }
+
 
     public String getName() {
         return name;
